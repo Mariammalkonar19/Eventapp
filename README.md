@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Demo
 
 # Description
@@ -15,3 +16,7 @@
 <center><b>Home</b></center>
 ![alt text](images/home.png)
 
+=======
+# Eventapp
+testing
+>>>>>>> 759d6b47e4aef8f9727b7ca56d4b4a4058d3c72d
