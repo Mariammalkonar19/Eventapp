@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-testing
-=======
+
 # EventApp
 
 # Description
@@ -15,8 +13,9 @@ consequuntur deleniti, tenetur </b>
 # Screen shots 📷
 <b> Login </b> ![Login](images/login.png)
 
+
 <hr>
 
 <center> <b>Home</b></center>
-![Home](images/home.png)
->>>>>>> 62dffa0 (added readme and images)
+![alt text](images/home.png)
+
