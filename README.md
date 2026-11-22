@@ -17,5 +17,5 @@ consequuntur deleniti, tenetur </b>
 <hr>
 
 <centre><b>Home</b><centre>
-![alt text](images\home.png)
+![Home](images/home.png)
 
